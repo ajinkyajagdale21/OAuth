@@ -1,0 +1,18 @@
+body{
+  background-color: #171717;
+  color: #ECEDD8;
+  text-align: center;
+}
+.loginBtn{
+  background: transparent;
+  border: 1px solid #ECEDD8;
+  color: #ECEDD8;
+  margin-top: 2rem;
+  padding: 0.8rem 2rem;
+  font-size: larger;
+  font-weight: 700;
+}
+.loginBtn:hover{
+  background-color: #ECEDD8;
+  color: black;
+}
